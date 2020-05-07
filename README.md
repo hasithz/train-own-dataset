@@ -17,3 +17,6 @@ install:
    - create train and test folders inside the dataset folder
 
 enjoy the work.
+
+if you have any questions please do put in the comment section. I'm also learning new things and will help to improve myself as yours. 
+happy to help/

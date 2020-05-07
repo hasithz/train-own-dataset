@@ -9,4 +9,9 @@ install:
 1. tensorflow
 2. pillow
 3. keras
-4 opencv
+4. opencv
+
+- create a new work directory called work inside the environment,
+- create your config file inside the folder 
+- create a dataset folder 
+   - create train and test folders inside the dataset folder

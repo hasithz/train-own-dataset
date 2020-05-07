@@ -15,3 +15,5 @@ install:
 - create your config file inside the folder 
 - create a dataset folder 
    - create train and test folders inside the dataset folder
+
+enjoy the work.
